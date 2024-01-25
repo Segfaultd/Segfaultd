@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Segfaultd/Segfaultd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Segfaultd, and I love tech. I mostly do software engineering, but I also like infrastructure, deployment and scability concepts.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Typescript, C++, Go. I'll follow you everywhere if you go with one of these.
+- Blockchain engineering. Core contributor to Cosmos-based blockchains
+- Reverse engineering. Mostly on games, understanding inner structures, breaking logics, and adding new features
+- Infrastucture / Deployment. Built Pulseheberg (french hosting company) 10 years ago, and still counting!
+
+## My Projects
+
+-  [MafiaHub, MafiaMP](https://github.com/MafiaHub) - Game modding framework and Multiplayer mod for Mafia Games 
+-  [Mafia 2 Online](https://github.com/Mafia2Online) - Multiplayer mod for Mafia 2
+-  [Nomad Group](https://www.nomad-group.net) - Initiated and built collaboration with Ubisoft on Watch Dogs Legion official multiplayer mod.
+-  [Lum Network](https://github.com/lum-network) - User-Generated-Content triggered rewards blockchain on Cosmos SDK
+
