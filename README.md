@@ -15,4 +15,5 @@ I'm Segfaultd, and I love tech. I mostly do software engineering, but I also lik
 -  [Mafia 2 Online](https://github.com/Mafia2Online) - Multiplayer mod for Mafia 2
 -  [Nomad Group](https://www.nomad-group.net) - Initiated and built collaboration with Ubisoft on Watch Dogs Legion official multiplayer mod.
 -  [Lum Network](https://github.com/lum-network) - User-Generated-Content triggered rewards blockchain on Cosmos SDK
+-  [Cosmos Millions](https://cosmosmillions.com) - Prize-linked savings account protocol deployed on Lum Network
 
