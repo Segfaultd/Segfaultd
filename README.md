@@ -6,8 +6,9 @@ I'm Segfaultd, and I love tech. I mostly do software engineering, but I also lik
 
 - **Typescript, C++, Go**. I'll follow you everywhere if you go with one of these.
 - **Blockchain engineering**. Core contributor to Cosmos-based blockchains
+- **Database engineering**. Deployed production-grade PostgreSQL & Elasticsearch for high-traffic applications
 - **Reverse engineering**. Mostly on games, understanding inner structures, breaking logics, and adding new features
-- **Infrastucture / Deployment**. Built Pulseheberg (french hosting company) 10 years ago, and still counting!
+- **Infrastucture / Deployment**. Built [Pulseheberg](https://pulseheberg.com) (french hosting company) 10 years ago, and still counting!
 
 ## My Projects
 
