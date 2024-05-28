@@ -18,4 +18,5 @@ I'm Segfaultd, and I love tech. I mostly do software engineering, but I also lik
 -  [Lum Network](https://github.com/lum-network) - User-Generated-Content triggered rewards blockchain on Cosmos SDK
 -  [Cosmos Millions](https://cosmosmillions.com) - Prize-linked savings account protocol deployed on Lum Network
 -  [Nim Network](https://nim.network) - Decentralized AI gaming platform
+-  [Nibiru](https://github.com/NibiruChain/nibiru) - Next gen smart contract brought to Cosmos
 
