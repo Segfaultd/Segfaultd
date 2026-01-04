@@ -21,5 +21,6 @@ I have interest in reverse-engineering, and am super familiar with IDA Pro softw
 -  [Cosmos Millions](https://cosmosmillions.com) - Prize-linked savings account protocol deployed on Lum Network
 -  [Nim Network](https://nim.network) - Decentralized AI gaming platform
 -  [Nibiru](https://github.com/NibiruChain/nibiru) - Next gen smart contract brought to Cosmos
--  [Fruitz](https://fruitz.io) - French dating leader, acquired by Bumble for $70M. Wrote the original Golang API stack to serve millions of DAU
+-  [Fruitz](https://fruitz.io) - French dating leader, acquired by Bumble for $75M. Wrote the original Golang API stack to serve millions of DAU
+-  [HyperIndex](https://github.com/enviodev/hyperindex) - Envio's HyperIndex, indexation framework for EVM chains. Added new features and developers tooling
 
