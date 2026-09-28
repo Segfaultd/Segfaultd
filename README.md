@@ -2,7 +2,10 @@
 
 I'm Segfaultd, and I love tech. I mostly do software engineering, but I also like infrastructure, deployment and scability concepts.
 
-I have interest in reverse-engineering, and am super familiar with IDA Pro software. In 2021-2022, we built a collaboration with Ubisoft to bring User-Generated-Content to Watch Dogs Legion. They wrote an [article](https://news.ubisoft.com/en-au/article/5mgRaWclQ5jI6T1HntDh0X/how-ubisoft-and-nomad-group-modded-watch-dogs-legion) on it.
+I have interest in reverse-engineering, and am super familiar with IDA Pro software. 
+In 2021-2022, we built a collaboration with Ubisoft to bring User-Generated-Content to Watch Dogs Legion. They wrote an [article](https://news.ubisoft.com/en-au/article/5mgRaWclQ5jI6T1HntDh0X/how-ubisoft-and-nomad-group-modded-watch-dogs-legion) on it.
+
+In 2025 we started working on an advanced multiplayer modification for Kingdom Come Deliverance 2, released during the 2026 summer under the name Kingdoms Connected.
 
 ## Skills
 
@@ -14,6 +17,7 @@ I have interest in reverse-engineering, and am super familiar with IDA Pro softw
 
 ## My Contributions
 
+-  [Kingdoms Connected](https://kingdomsconnected.com) - The original multiplayer mod for KCD 1 & KCD2. FiveM in a medieval world
 -  [MafiaHub, MafiaMP](https://github.com/MafiaHub) - Game modding framework and Multiplayer mod for Mafia Games (1, 1 DE, 3)
 -  [Mafia 2 Online](https://github.com/Mafia2Online) - Multiplayer mod for Mafia 2
 -  [Nomad Group](https://www.nomad-group.net) - Initiated and built collaboration with Ubisoft on Watch Dogs Legion official multiplayer mod.
