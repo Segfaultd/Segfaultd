@@ -1,30 +1,51 @@
-### Hi there 👋
+# Hey, I'm Segfaultd 👋
 
-I'm Segfaultd, and I love tech. I mostly do software engineering, but I also like infrastructure, deployment and scability concepts.
+**Hands-on CTO · Software Engineer · Technical Founder**
 
-I have interest in reverse-engineering, and am super familiar with IDA Pro software. 
-In 2021-2022, we built a collaboration with Ubisoft to bring User-Generated-Content to Watch Dogs Legion. They wrote an [article](https://news.ubisoft.com/en-au/article/5mgRaWclQ5jI6T1HntDh0X/how-ubisoft-and-nomad-group-modded-watch-dogs-legion) on it.
+I build ambitious products and complex systems, from low-level C++ and reverse engineering to distributed infrastructure and platforms serving millions of users.
 
-In 2025 we started working on an advanced multiplayer modification for Kingdom Come Deliverance 2, released during the 2026 summer under the name Kingdoms Connected.
+13+ years of engineering, entrepreneurship, and technical leadership. I've built companies from scratch, led engineering teams, scaled production systems, and contributed to successful acquisitions.
 
-## Skills
+**Engineer at heart. CTO by experience. Builder by nature.**
 
-- **Typescript, C++, Go**. My go-to stack. I dream about it.
-- **Blockchain engineering**. Core contributor to Cosmos-based blockchains
-- **Database engineering**. Deployed production-grade PostgreSQL & Elasticsearch for high-traffic applications
-- **Reverse engineering**. Mostly on games, understanding inner structures, breaking logics, and adding new features
-- **Infrastucture / Deployment**. Built [Pulseheberg](https://pulseheberg.com) (french hosting company) 13 years ago, and still counting!
+## ⚡ Highlights
 
-## My Contributions
+- **CTO & Engineering Leader** — Quest Platforms, LONG, Elmut, Lum Network. From architecture and hands-on development to engineering strategy and team building.
+- **€12M ARR** — Led technology modernization and scaling at Elmut.
+- **Millions of users** — Built the original Go API stack at Fruitz, later acquired by Bumble for $75M.
+- **$1B blockchain ecosystem** — Led engineering and core protocol development at Lum Network.
+- **35K+ customers** — Built and operated hosting infrastructure at PulseHeberg, a company I helped grow.
+- **Successful exits** — Founding engineer at Surprise (acquired by Skeepers), CTO & co-founder at Baldr (acquired).
+- **Ubisoft collaboration** — Established a partnership to bring modding and user-generated content to Watch Dogs: Legion.
 
--  [Kingdoms Connected](https://kingdomsconnected.com) - The original multiplayer mod for KCD 1 & KCD2. FiveM in a medieval world
--  [MafiaHub, MafiaMP](https://github.com/MafiaHub) - Game modding framework and Multiplayer mod for Mafia Games (1, 1 DE, 3)
--  [Mafia 2 Online](https://github.com/Mafia2Online) - Multiplayer mod for Mafia 2
--  [Nomad Group](https://www.nomad-group.net) - Initiated and built collaboration with Ubisoft on Watch Dogs Legion official multiplayer mod.
--  [Lum Network](https://github.com/lum-network) - User-Generated-Content triggered rewards blockchain on Cosmos SDK
--  [Cosmos Millions](https://cosmosmillions.com) - Prize-linked savings account protocol deployed on Lum Network
--  [Nim Network](https://nim.network) - Decentralized AI gaming platform
--  [Nibiru](https://github.com/NibiruChain/nibiru) - Next gen smart contract brought to Cosmos
--  [Fruitz](https://fruitz.io) - French dating leader, acquired by Bumble for $75M. Wrote the original Golang API stack to serve millions of DAU
--  [HyperIndex](https://github.com/enviodev/hyperindex) - Envio's HyperIndex, indexation framework for EVM chains. Added new features and developers tooling
+## 🛠️ Engineering
 
+- **Languages:** Go, C++, TypeScript, Python
+- **Systems:** Distributed architectures, concurrency, networking, high-performance backends
+- **Infrastructure:** Kubernetes, GCP, OpenStack, Terraform, Linux
+- **Data:** PostgreSQL, Elasticsearch, BigQuery
+- **Blockchain:** Cosmos SDK, CometBFT, EVM, smart contracts
+- **Reverse Engineering:** IDA Pro, binary analysis, game engine internals
+
+## 🚀 Selected Projects
+
+### Game Engineering & Reverse Engineering
+- **[Kingdoms Connected](https://kingdomsconnected.com)** — Multiplayer framework for Kingdom Come: Deliverance I & II.
+- **[NOMAD Group × Ubisoft](https://news.ubisoft.com/en-au/article/5mgRaWclQ5jI6T1HntDh0X/how-ubisoft-and-nomad-group-modded-watch-dogs-legion)** — Official collaboration bringing modding capabilities to Watch Dogs: Legion.
+- **[MafiaHub / MafiaMP](https://github.com/MafiaHub)** — Multiplayer frameworks for the Mafia franchise.
+- **[Mafia 2 Online](https://github.com/Mafia2Online)** — Multiplayer modification for Mafia II.
+
+### Blockchain & Distributed Systems
+- **[Lum Network](https://github.com/lum-network)** — Core Cosmos SDK blockchain engineering and infrastructure.
+- **[Cosmos Millions](https://cosmosmillions.com)** — Prize-linked savings protocol.
+- **[Nim Network](https://nim.network)** — Decentralized AI gaming ecosystem.
+- **[Nibiru](https://github.com/NibiruChain/nibiru)** — Cosmos-based smart contract infrastructure.
+- **[HyperIndex](https://github.com/enviodev/hyperindex)** — High-performance EVM indexing and developer tooling.
+
+### Products & Infrastructure
+- **[Fruitz](https://fruitz.io)** — Original Go API architecture serving millions of users.
+- **[PulseHeberg](https://pulseheberg.com)** — Hosting infrastructure serving 35K+ customers.
+
+---
+
+📍 Stockholm, Sweden
