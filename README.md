@@ -4,9 +4,7 @@
 
 I build ambitious products and complex systems, from low-level C++ and reverse engineering to distributed infrastructure and platforms serving millions of users.
 
-13+ years of engineering, entrepreneurship, and technical leadership. I've built companies from scratch, led engineering teams, scaled production systems, and contributed to successful acquisitions.
-
-**Engineer at heart. CTO by experience. Builder by nature.**
+13+ years of engineering, entrepreneurship, and technical leadership. I've built companies from scratch, led engineering teams, scaled production systems, and made it to successful acquisitions.
 
 ## ⚡ Highlights
 
